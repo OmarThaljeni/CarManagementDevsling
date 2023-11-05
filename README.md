@@ -1,5 +1,5 @@
 
-# Sample REST CRUD API with Spring Boot, Mysql, JPA and Hibernate 
+# Sample REST CRUD API with Spring Boot, Postgres SQL, JPA and Hibernate 
 
 The app defines following CRUD APIs.
 
